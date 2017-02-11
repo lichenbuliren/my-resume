@@ -26,7 +26,7 @@
 - 不足：需要加强对 canvas 特效的掌握
 
 #### mCare hybird app 开发
-- 职责：负责 Hybird APP中前端模块开发，和安卓配合调试
+- 职责：负责 Hybird APP中前端模块开发，和安卓配合调试
 - 收获：熟悉并解决 Hybird 开发中常见的一些开发坑；掌握 Charles, weinre 抓包调试 APP；在项目中实践[flexible.js](https://github.com/amfe/lib-flexible)移动端适配方案，并准确还原设计稿
 - 不足：对 hybird app 的部署方案不是很熟悉，目前没有尝试业界成熟的特部署方案
 
